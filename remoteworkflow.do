@@ -1,5 +1,5 @@
 qui {
-	cls
+	//cls
 	use ${repo}transplants, clear
     ds, not(type string)  
 	global threshold 9  
