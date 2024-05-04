@@ -30,3 +30,5 @@ qui {
     }
 	
 }
+
+di Hello, class!!
