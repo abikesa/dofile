@@ -31,4 +31,4 @@ qui {
 	
 }
 
-di Hello, class!!
+di "Hello, class!!"
